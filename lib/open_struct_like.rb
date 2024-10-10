@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "open_struct_like/version"
+# require_relative "open_struct_like/version"
 
 require 'ostruct'
 require 'active_support/core_ext/hash/indifferent_access'
