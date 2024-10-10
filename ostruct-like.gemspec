@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
   # end
   # spec.bindir = "exe"
   # spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
-  spec.files = ['lib/open_struct_like.rb']
+  spec.files = ['lib/open_struct_like.rb', 'lib/ostruct-like.rb']
   spec.require_paths = ["lib"]
 
   # Uncomment to register a new dependency of your gem
