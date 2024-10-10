@@ -3,7 +3,7 @@
 require_relative "lib/open_struct_like/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "open_struct_like"
+  spec.name = "ostruct-like"
   spec.version = OpenStructLike::VERSION
   spec.authors = ["Ricky Manriquez"]
   spec.email = ["dechimp@gmail.com"]
